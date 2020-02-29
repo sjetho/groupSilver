@@ -244,7 +244,7 @@ function Israel() {
                             }
                             function Diaz() {
                                 let boxID;
-    let imageURL = "https://lh3.googleusercontent.com/proxy/CsJjauBsYzsVBQK0E7jPgnvRiBsytPfbjiFq6Bq0ihrwYSNgdAL5q4WV-zS1hK08cIo0THJHGz_7_ULjntgVFCqU5SvsSS1KCXMchM_RLoAno-VwN1igcAcDSKe-yukwug"
+    let imageURL = "https://a.espncdn.com/combiner/i?img=/i/headshots/mma/players/full/2335679.png"
     let description = `Age 31 Gender Male\n
     Height	5 ft 11 inches\n
     Weight Class: Lightweight\n
